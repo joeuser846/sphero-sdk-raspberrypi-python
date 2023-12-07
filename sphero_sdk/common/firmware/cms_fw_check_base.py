@@ -115,7 +115,7 @@ class CmsFwCheckBase:
         print('If you would like to update your unit, connect RVR to')
         print('the Sphero EDU app to install the latest firmware.')
         print('=====================================================')
-        print('\nPress any key to continue...')
-        input()
+        #print('\nPress any key to continue...')
+        #input()
 
 
